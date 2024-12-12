@@ -1,0 +1,5 @@
+1. Dealock was achieved by removing sleep time between functions. This happened fairly quickly... it had a slightly random timing.
+2. When using 3 philosphers here, it seems like 0 is enjoing there food a lot less than the others with 2 potentially being the one who is eating a lot 
+3. I was unable to get to this part
+
+I was not able to get to the last part of mutiple barbers
